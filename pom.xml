@@ -25,11 +25,7 @@
 
 </build>
 
-<<<<<<< HEAD
-    <properties>
-=======
      <properties>
->>>>>>> a746ea2a51114e7d64ad462e4f1da0f92647ae9e
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -37,10 +33,6 @@
         <aspectj.version>1.9.21</aspectj.version>
     </properties>
 
-<<<<<<< HEAD
-=======
-         
->>>>>>> a746ea2a51114e7d64ad462e4f1da0f92647ae9e
      <dependencies>
 
          <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
@@ -63,11 +55,6 @@
     <version>7.10.1</version>
     <scope>test</scope>
 </dependency>
-<<<<<<< HEAD
+
     </dependencies>
 </project>
-=======
-
-     </dependencies>
-</project>
->>>>>>> a746ea2a51114e7d64ad462e4f1da0f92647ae9e
